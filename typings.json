@@ -1,0 +1,8 @@
+{
+  "globalDevDependencies": {
+    "grunt": "registry:dt/grunt#0.4.0+20170118033846"
+  },
+  "globalDependencies": {
+    "pug": "registry:dt/pug#2.0.0+20161229235626"
+  }
+}
